@@ -4,6 +4,7 @@ body {
   background-color: hsl(185, 75%, 39%);
   text-align: center;
   font-size: 18px;
+  width: 100%;
 }
 
 .bold {
